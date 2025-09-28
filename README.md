@@ -8,7 +8,6 @@ The objective is to configure and test basic firewall rules to allow or block tr
 ## Contents
 - `screenshots/` → Firewall configuration and testing screenshots
 - `README.md` → Steps performed and summary
-- `commands.txt` (optional) → Commands used for testing (PowerShell)
 
 ## Objective
 - Block inbound Telnet traffic on port 23
